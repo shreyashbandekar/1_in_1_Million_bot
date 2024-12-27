@@ -22,5 +22,11 @@
   },
   "engines": {
     "node": ">=20"
-  }
+  },
+  "version": "1.0.0",
+  "description": "This project is an XMTP bot that enables users to interact with the \"1 in 1 Million\" frame, a rock-paper-scissors game. The bot is built using the [MessageKit](https://message-kit.vercel.app) v1.0.0 CLI with the `one-to-one` template.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
